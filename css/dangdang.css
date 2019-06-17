@@ -403,6 +403,23 @@ body{
 	color: #959BF6;
 	display: block;
 }
+#market-top span:nth-child(2){
+	color: #FD5A00;
+	display: block;
+}
+.new-child{
+	font-size: 0.31rem;
+	background: #FA8910;
+	color: white;
+	border-radius: 4px;
+	padding-left: 1px;
+	padding-right: 1px;
+}
+.new-b img{
+	width:3rem;
+	height: 3rem;
+	margin-left: 2.3rem;
+}
 .market-b {
 	width: 3rem;
 	height: 3rem;
@@ -422,6 +439,10 @@ body{
 .rou-l span:nth-child(2){
 	color: #959BF6;
 	display: block;
+}
+.yangshi{
+	
+	color: #FD5A00!important;
 }
 .rou-box li{
 	display: flex;
